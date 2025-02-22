@@ -5,8 +5,6 @@ const winston = require('../config/logger.js');
  */
 const errorHandler = (err, req, res, next) => {
   winston.error(err.message, err);
-
-  // Determine the error status code
   const statusCode = err.status || 500;
 
   res.status(statusCode).json({

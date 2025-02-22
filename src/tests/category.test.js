@@ -2,10 +2,6 @@ const request = require('supertest');
 const app = require('../app');
 
 describe('Category API Tests', () => {
-
-  beforeEach(async () => {
-    // Clear the tables before each test
-  });
   let createdCategoryId = '';
 
   it('should create a new category', async () => {

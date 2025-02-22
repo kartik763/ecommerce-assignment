@@ -6,14 +6,11 @@ describe('Variant API Tests', () => {
   let productId = '';
 
   beforeAll(async () => {
-    // Create a category first
     const categoryRes = await request(app)
       .post('/api/categories')
       .send({ name: `Mobiles${Date.now()}` });
 
     const categoryId = categoryRes.body.id;
-
-    // Create a product under the category
     const productRes = await request(app)
       .post('/api/products')
       .send({

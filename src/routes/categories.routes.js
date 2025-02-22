@@ -1,16 +1,3 @@
-// const express = require('express');
-// const { createCategory, getCategories, getCategoryByName, updateCategory, deleteCategory } = require('../controllers/category.controller');
-
-// const router = express.Router();
-
-// router.post('/', createCategory);
-// router.get('/', getCategories);
-// router.get('/:name', getCategoryByName);
-// router.put('/:id', updateCategory);
-// router.delete('/:id', deleteCategory);
-
-// module.exports = router;
-
 const express = require('express');
 const { body, param } = require('express-validator');
 const {

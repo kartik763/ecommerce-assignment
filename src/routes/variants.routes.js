@@ -1,18 +1,3 @@
-// const express = require('express');
-// const { createVariant, getVariants, getVariantById, updateVariant, deleteVariant, getVariantsByProduct } = require('../controllers/variant.controller');
-
-// const router = express.Router();
-
-// router.post('/', createVariant);
-// router.get('/', getVariants);
-// router.get('/:id', getVariantById);
-// router.put('/:id', updateVariant);
-// router.delete('/:id', deleteVariant);
-// router.get('/product/:productId', getVariantsByProduct);
-
-// module.exports = router;
-
-
 const express = require('express');
 const { body, param } = require('express-validator');
 const {
