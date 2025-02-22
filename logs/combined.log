@@ -1,0 +1,34 @@
+{"level":"error","message":"Error creating categories: Validation error","timestamp":"2025-02-22T10:35:41.592Z"}
+{"level":"error","message":"Error getting category by name: relation \"Categories\" does not exist","timestamp":"2025-02-22T10:58:36.896Z"}
+{"level":"error","message":"Error creating category: relation \"Categories\" does not exist","timestamp":"2025-02-22T10:58:36.952Z"}
+{"level":"error","message":"Error creating category: relation \"Categories\" does not exist","timestamp":"2025-02-22T10:58:36.977Z"}
+{"level":"error","message":"Error creating category: Validation error","timestamp":"2025-02-22T10:58:37.309Z"}
+{"level":"error","message":"Error creating product: Category not found","timestamp":"2025-02-22T11:00:11.279Z"}
+{"level":"error","message":"Error creating product: relation \"Categories\" does not exist","timestamp":"2025-02-22T11:03:43.304Z"}
+{"level":"error","message":"Error getting variants: relation \"Variants\" does not exist","timestamp":"2025-02-22T11:05:37.980Z"}
+{"level":"error","message":"Error getting category by name: relation \"Categories\" does not exist","timestamp":"2025-02-22T11:06:42.953Z"}
+{"level":"error","message":"Error creating category: relation \"Categories\" does not exist","timestamp":"2025-02-22T11:06:42.956Z"}
+{"level":"error","message":"Error creating category: relation \"Categories\" does not exist","timestamp":"2025-02-22T12:13:57.643Z"}
+{"level":"error","message":"Error creating category: Validation error","timestamp":"2025-02-22T12:49:05.548Z"}
+{"level":"error","message":"Error creating category: Validation error","timestamp":"2025-02-22T12:49:05.555Z"}
+{"level":"error","message":"Error creating category: Validation error","timestamp":"2025-02-22T12:51:22.445Z"}
+{"level":"error","message":"Error creating category: Validation error","timestamp":"2025-02-22T12:51:22.989Z"}
+{"level":"error","message":"Error creating category: Validation error","timestamp":"2025-02-22T12:55:41.542Z"}
+{"level":"error","message":"Error creating category: Validation error","timestamp":"2025-02-22T12:55:42.319Z"}
+{"level":"error","message":"Error creating category: Validation error","timestamp":"2025-02-22T12:56:12.985Z"}
+{"level":"error","message":"Error creating category: Validation error","timestamp":"2025-02-22T12:56:13.446Z"}
+{"level":"error","message":"Error creating category: Validation error","timestamp":"2025-02-22T12:56:13.588Z"}
+{"level":"error","message":"Error creating category: Validation error","timestamp":"2025-02-22T12:56:13.654Z"}
+{"level":"error","message":"Error creating category: Validation error","timestamp":"2025-02-22T12:56:34.493Z"}
+{"level":"error","message":"Error creating category: Validation error","timestamp":"2025-02-22T12:56:34.835Z"}
+{"level":"error","message":"Error creating category: Validation error","timestamp":"2025-02-22T12:56:34.956Z"}
+{"level":"error","message":"Error creating category: Validation error","timestamp":"2025-02-22T12:56:34.995Z"}
+{"level":"error","message":"Error creating category: Validation error","timestamp":"2025-02-22T13:00:00.502Z"}
+{"level":"error","message":"Error creating category: Validation error","timestamp":"2025-02-22T13:00:00.518Z"}
+{"level":"error","message":"Error creating category: Validation error","timestamp":"2025-02-22T13:00:00.682Z"}
+{"level":"error","message":"Error creating category: Validation error","timestamp":"2025-02-22T13:00:00.745Z"}
+{"level":"error","message":"Error creating product: Validation error","timestamp":"2025-02-22T13:05:43.131Z"}
+{"level":"error","message":"Error creating product: Validation error","timestamp":"2025-02-22T13:06:01.123Z"}
+{"level":"error","message":"Error creating product: Validation error","timestamp":"2025-02-22T13:06:09.280Z"}
+{"level":"error","message":"Error creating product: Validation error","timestamp":"2025-02-22T13:08:46.835Z"}
+{"level":"error","message":"Error creating category: insert or update on table \"Categories\" violates foreign key constraint \"Categories_parentCategoryId_fkey\"","timestamp":"2025-02-22T13:11:23.171Z"}
